@@ -2,7 +2,7 @@
 
 Afte Logging with the ```username:password``` given, we surf to change email page! when looking into the request, we check that there's no verification before submiting the request! means we can send to a target the url with the new email inside the url using ```POST``` request.
 
-![****](/Portswigger-WebSecurity/CSRF/Screenshots/cssrf1.PNG)
+![****](/CSRF/Screenshots/cssf1.PNG)
 
 ## Let generate some Payloads!
 
