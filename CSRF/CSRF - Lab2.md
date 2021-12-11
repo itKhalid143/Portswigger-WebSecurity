@@ -1,7 +1,7 @@
 # CSRF Vulnerability
 
 
-![****](/PortSwigger/Academy/PortSwigger/Labs/CSRF/Screenshots/cssrf2.PNG)
+![****](/Portswigger-WebSecurity/CSRF/Screenshots/cssrf2.PNG)
 
 ## Let generate some Payloads!
 
