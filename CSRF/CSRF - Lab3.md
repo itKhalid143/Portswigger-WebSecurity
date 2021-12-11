@@ -1,7 +1,7 @@
 # CSRF Vulnerability
 
 
-![****](/CSRF/Screenshots/cssrf3.PNG)
+![****](/CSRF/Screenshots/csrf3.PNG)
 
 
 ## Let generate some Payloads!
